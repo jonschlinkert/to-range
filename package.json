@@ -1,0 +1,57 @@
+{
+  "name": "to-range",
+  "description": "Creates a range (array) from two numbers.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/to-range",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/to-range",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/to-range/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "is-number": "^2.0.2"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": [
+    "alpha",
+    "alphabetical",
+    "bash",
+    "brace",
+    "expand",
+    "expansion",
+    "glob",
+    "match",
+    "matches",
+    "matching",
+    "number",
+    "numerical",
+    "range",
+    "ranges",
+    "sh"
+  ],
+  "verb": {
+    "related": {
+      "list": [
+        "to-regex-range",
+        "fill-range",
+        "expand-range",
+        "repeat-element",
+        "repeat-string"
+      ]
+    }
+  }
+}
