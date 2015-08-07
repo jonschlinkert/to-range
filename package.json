@@ -1,6 +1,6 @@
 {
   "name": "to-range",
-  "description": "Creates a range (array) from two numbers.",
+  "description": "Creates a range (array) from two numbers, negative or positive, with an optional step (increment).",
   "version": "0.1.0",
   "homepage": "https://github.com/jonschlinkert/to-range",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",

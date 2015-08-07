@@ -1,6 +1,6 @@
 # to-range [![NPM version](https://badge.fury.io/js/to-range.svg)](http://badge.fury.io/js/to-range)
 
-> Creates a range (array) from two numbers.
+> Creates a range (array) from two numbers, negative or positive, with an optional step (increment).
 
 ## Install
 
